@@ -16,11 +16,11 @@
 
  📫 How to reach me  
  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  :  https://www.linkedin.com/in/supriya-m-8813b5264
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  :  https://www.linkedin.com/in/supriya-m-8813b5264/
 
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white): https://www.instagram.com/supriyachola
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white): https://www.instagram.com/supriyachola/
 
-![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)(https://www.reddit.com/user/supriyachola)
+![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white): https://www.reddit.com/user/supriyachola/
 
  😄 Pronouns  
 She/Her  
