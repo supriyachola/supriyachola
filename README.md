@@ -15,7 +15,7 @@
 - Open-source contributions  
 
  📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]   *LinkedIn*:  https://www.linkedin.com/in/supriya-m-8813b5264
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  :  https://www.linkedin.com/in/supriya-m-8813b5264
 
 *Instagram*: https://www.instagram.com/supriyachola
 
