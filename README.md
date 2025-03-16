@@ -16,6 +16,7 @@
 
  📫 How to reach me  
  *LinkedIn*:  https://www.linkedin.com/in/supriya-m-8813b5264
+*Instagram*: https://www.instagram.com/supriyachola
 
  😄 Pronouns  
 She/Her  
