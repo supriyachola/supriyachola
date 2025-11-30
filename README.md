@@ -16,7 +16,7 @@
 
  📫 How to reach me  
  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  :  https://www.linkedin.com/in/supriya-m-8813b5264/
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  :  https://www.linkedin.com/in/supriyachola
 
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white): https://www.instagram.com/supriyachola/
 
