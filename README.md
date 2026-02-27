@@ -11,7 +11,7 @@
 - OpenCV & TensorFlow for Computer Vision  
 - GRE & IELTS Prep for MS  
 
- 💞️ I’m looking to collaborate on    
+  I’m looking to collaborate on    
 - Open-source contributions  
 
  📫 How to reach me  
