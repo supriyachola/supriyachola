@@ -9,7 +9,7 @@
  🌱 I’m currently learning  
 - Advanced Machine Learning & AI Techniques  
 - OpenCV & TensorFlow for Computer Vision  
-- GRE & IELTS Prep for MS  
+ 
 
   I’m looking to collaborate on    
 - Open-source contributions  
